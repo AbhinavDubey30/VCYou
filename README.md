@@ -24,7 +24,7 @@ Installation
 
 **Clone the repository:**
 
-git clone https://github.com/AbeerMathur/VCYou.git
+git clone https://github.com/AbhinavDubey30/VCYou.git
 
 **Switch directory:**
 
